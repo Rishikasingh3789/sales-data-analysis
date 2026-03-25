@@ -4,6 +4,8 @@
 To analyze sales data and extract meaningful insights.
 
 ## 🔹 Tools Used
+## 🔹 Dataset
+Superstore Sales Dataset (Kaggle)
 - Python
 - Pandas
 - Matplotlib
