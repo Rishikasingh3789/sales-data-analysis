@@ -1,30 +1,23 @@
 # 📊 Sales Data Analysis Project
 
-## 🔹 Objective
-To analyze sales data and extract meaningful insights.
+## 📌 Objective
+Analyze sales data to find trends, top products, and customer behavior.
 
-## 🔹 Tools Used
-## 🔹 Dataset
-Superstore Sales Dataset (Kaggle)
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+## 🛠️ Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
 
-## 🔹 Analysis Performed
-- Top selling products
-- Sales by region
-- Monthly sales trend
-- Top cities by sales
+## 📊 Key Analysis
+- Sales by City
+- Sales by Product Line
+- Revenue Trends
+- Customer Type Analysis
 
-## 🔹 Key Insights
-- Technology category generates highest sales
-- West region contributes the most revenue
-- Sales vary across months
-- Certain cities dominate sales
+## 📈 Key Insights
+- Highest revenue comes from ___
+- Most popular product is ___
+- Peak sales time is ___
 
-## 🔹 Project File
-Sales_Analysis_Project.ipynb
-
-## 🔹 Author
-Rishika Singh
+## 💡 Business Recommendations
+- Focus on ___ product
+- Improve sales in ___ region
